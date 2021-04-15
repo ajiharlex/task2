@@ -1,0 +1,21 @@
+body, body, p{
+    margin: 10%;
+    padding: 0;
+    background-color: rgb(240, 216, 216);
+}
+
+h2{
+    text-align: center;
+}
+
+.btns_container button{
+    padding: 10em;
+    border: none;
+}
+
+.left a{
+    margin-right: 1em;
+}
+.right a{
+    margin-right: 1em;
+}
